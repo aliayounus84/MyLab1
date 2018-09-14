@@ -12,6 +12,8 @@ namespace Hello_WPF
         {
 
             Console.WriteLine("Hello World");
+            Console.ReadKey();
+            return 0;
         }
     }
 }
